@@ -1,0 +1,23 @@
+{
+  "name": "vimeo-dashdown",
+  "version": "1.0.0",
+  "description": "Download Vimeo videos in MPEG-DASH format",
+  "main": "vimeo-dashdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonman225/vimeo-dashdown.git"
+  },
+  "author": "dragonman225",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dragonman225/vimeo-dashdown/issues"
+  },
+  "homepage": "https://github.com/dragonman225/vimeo-dashdown#readme",
+  "dependencies": {
+    "atob": "^2.0.3",
+    "minimist": "^1.2.0"
+  }
+}
